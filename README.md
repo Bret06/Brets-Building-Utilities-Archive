@@ -6,4 +6,5 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-brightgreen.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [Note: Check branches to find resource/datapack]
+
 This data/resourcepack is a smart tool used to make building with custom models easier!
