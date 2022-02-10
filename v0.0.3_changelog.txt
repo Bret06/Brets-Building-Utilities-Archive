@@ -1,0 +1,6 @@
+• Altered The Texture and Model of The Cups Slightly
+• Changed Kraken's Den Sign Back To Tab's Tavern
+• Changed Builder Book's Model
+• Rewrote The Entire Unicode Library For Builder Blocks Icons
+• Added Six New Models
+• Removed Darkos ;)

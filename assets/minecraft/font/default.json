@@ -1,0 +1,337 @@
+{
+    "providers": [
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB01"
+            ],
+            "file": "custom/ui/wall.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB02"
+            ],
+            "file": "custom/ui/rocks1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB03"
+            ],
+            "file": "custom/ui/rocks2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB04"
+            ],
+            "file": "custom/ui/rocks3.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB05"
+            ],
+            "file": "custom/ui/book_stack1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB06"
+            ],
+            "file": "custom/ui/book_stack2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB07"
+            ],
+            "file": "custom/ui/book1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB08"
+            ],
+            "file": "custom/ui/book2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB09"
+            ],
+            "file": "custom/ui/scroll1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB10"
+            ],
+            "file": "custom/ui/scroll2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB11"
+            ],
+            "file": "custom/ui/landmine.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB12"
+            ],
+            "file": "custom/ui/bear_trap.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB13"
+            ],
+            "file": "custom/ui/bear_trap_closed.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB14"
+            ],
+            "file": "custom/ui/switch_box.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB15"
+            ],
+            "file": "custom/ui/tabs.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB16"
+            ],
+            "file": "custom/ui/cup.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB17"
+            ],
+            "file": "custom/ui/cup2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB18"
+            ],
+            "file": "custom/ui/iron_sword_prop.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB19"
+            ],
+            "file": "custom/ui/iron_pickaxe_prop.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB20"
+            ],
+            "file": "custom/ui/sleeping_bag.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB21"
+            ],
+            "file": "custom/ui/enchantanvil.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB22"
+            ],
+            "file": "custom/ui/logs1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB23"
+            ],
+            "file": "custom/ui/logs2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB24"
+            ],
+            "file": "custom/ui/logs3.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB25"
+            ],
+            "file": "custom/ui/yeosleeping.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB26"
+            ],
+            "file": "custom/ui/spyglass.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB27"
+            ],
+            "file": "custom/ui/bow_prop.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB28"
+            ],
+            "file": "custom/ui/stocking.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB29"
+            ],
+            "file": "custom/ui/forge_hammer.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB30"
+            ],
+            "file": "custom/ui/tree.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB31"
+            ],
+            "file": "custom/ui/lights.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB32"
+            ],
+            "file": "custom/ui/bottles1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB33"
+            ],
+            "file": "custom/ui/bottles2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB34"
+            ],
+            "file": "custom/ui/bottles3.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB35"
+            ],
+            "file": "custom/ui/bottles4.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB36"
+            ],
+            "file": "custom/ui/chair1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBB37"
+            ],
+            "file": "custom/ui/wheelbarrow.png",
+            "height": 16,
+            "type": "bitmap"
+        }
+    ]
+}

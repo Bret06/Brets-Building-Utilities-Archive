@@ -1,0 +1,236 @@
+{
+    "overrides": [
+        {
+            "model": "custom/decorations/pebbles/rocks1",
+            "predicate": {
+                "custom_model_data": 256
+            }
+        },
+        {
+            "model": "custom/decorations/pebbles/rocks2",
+            "predicate": {
+                "custom_model_data": 257
+            }
+        },
+        {
+            "model": "custom/decorations/pebbles/rocks3",
+            "predicate": {
+                "custom_model_data": 258
+            }
+        },
+        {
+            "model": "custom/decorations/lanterns/wall",
+            "predicate": {
+                "custom_model_data": 272
+            }
+        },
+        {
+            "model": "custom/decorations/book/book_stack1",
+            "predicate": {
+                "custom_model_data": 288
+            }
+        },
+        {
+            "model": "custom/decorations/book/book_stack2",
+            "predicate": {
+                "custom_model_data": 289
+            }
+        },
+        {
+            "model": "custom/decorations/book/book1",
+            "predicate": {
+                "custom_model_data": 290
+            }
+        },
+        {
+            "model": "custom/decorations/book/book2",
+            "predicate": {
+                "custom_model_data": 291
+            }
+        },
+        {
+            "model": "custom/decorations/scrolls/scroll1",
+            "predicate": {
+                "custom_model_data": 304
+            }
+        },
+        {
+            "model": "custom/decorations/scrolls/scroll2",
+            "predicate": {
+                "custom_model_data": 305
+            }
+        },
+        {
+            "model": "custom/decorations/random/landmine",
+            "predicate": {
+                "custom_model_data": 320
+            }
+        },
+        {
+            "model": "custom/decorations/random/bear_trap",
+            "predicate": {
+                "custom_model_data": 336
+            }
+        },
+        {
+            "model": "custom/decorations/random/bear_trap_closed",
+            "predicate": {
+                "custom_model_data": 337
+            }
+        },
+        {
+            "model": "custom/decorations/random/switch_box",
+            "predicate": {
+                "custom_model_data": 352
+            }
+        },
+        {
+            "model": "custom/decorations/signs/tabs",
+            "predicate": {
+                "custom_model_data": 368
+            }
+        },
+        {
+            "model": "custom/decorations/random/cup",
+            "predicate": {
+                "custom_model_data": 384
+            }
+        },
+        {
+            "model": "custom/decorations/random/cup2",
+            "predicate": {
+                "custom_model_data": 385
+            }
+        },
+        {
+            "model": "custom/decorations/tools/iron_sword_prop",
+            "predicate": {
+                "custom_model_data": 400
+            }
+        },
+        {
+            "model": "custom/decorations/tools/iron_pickaxe_prop",
+            "predicate": {
+                "custom_model_data": 416
+            }
+        },
+        {
+            "model": "custom/decorations/sleep/sleeping_bag",
+            "predicate": {
+                "custom_model_data": 432
+            }
+        },
+        {
+            "model": "custom/decorations/blocks/enchantanvil",
+            "predicate": {
+                "custom_model_data": 448
+            }
+        },
+        {
+            "model": "custom/decorations/logs/logs1",
+            "predicate": {
+                "custom_model_data": 464
+            }
+        },
+        {
+            "model": "custom/decorations/logs/logs2",
+            "predicate": {
+                "custom_model_data": 465
+            }
+        },
+        {
+            "model": "custom/decorations/logs/logs3",
+            "predicate": {
+                "custom_model_data": 466
+            }
+        },
+        {
+            "model": "custom/decorations/mobs/yeosleeping",
+            "predicate": {
+                "custom_model_data": 480
+            }
+        },
+        {
+            "model": "custom/decorations/tools/spyglass",
+            "predicate": {
+                "custom_model_data": 496
+            }
+        },
+        {
+            "model": "custom/decorations/tools/bow_prop",
+            "predicate": {
+                "custom_model_data": 512
+            }
+        },
+        {
+            "model": "custom/decorations/tools/forge_hammer",
+            "predicate": {
+                "custom_model_data": 513
+            }
+        },
+        {
+            "model": "custom/decorations/christmas/stocking",
+            "predicate": {
+                "custom_model_data": 528
+            }
+        },
+        {
+            "model": "custom/decorations/christmas/stocking2",
+            "predicate": {
+                "custom_model_data": 529
+            }
+        },
+        {
+            "model": "custom/decorations/christmas/tree",
+            "predicate": {
+                "custom_model_data": 530
+            }
+        },
+        {
+            "model": "custom/decorations/christmas/lights",
+            "predicate": {
+                "custom_model_data": 531
+            }
+        },
+        {
+            "model": "custom/decorations/bottles/bottles1",
+            "predicate": {
+                "custom_model_data": 544
+            }
+        },
+        {
+            "model": "custom/decorations/bottles/bottles2",
+            "predicate": {
+                "custom_model_data": 545
+            }
+        },
+        {
+            "model": "custom/decorations/bottles/bottles3",
+            "predicate": {
+                "custom_model_data": 546
+            }
+        },
+        {
+            "model": "custom/decorations/bottles/bottles4",
+            "predicate": {
+                "custom_model_data": 547
+            }
+        },
+        {
+            "model": "custom/decorations/chairs/chair1",
+            "predicate": {
+                "custom_model_data": 560
+            }
+        },
+        {
+            "model": "custom/decorations/vehicles/wheelbarrow",
+            "predicate": {
+                "custom_model_data": 576
+            }
+        }
+    ],
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/item_frame"
+    }
+}
