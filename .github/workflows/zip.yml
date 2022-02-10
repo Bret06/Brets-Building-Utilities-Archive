@@ -12,14 +12,14 @@ jobs:
         git config --global user.email "bretholloway06@gmail.com"
         git config pull.rebase false
         git pull
-        rm -f Omegacraft-Season-4-Resource-Pack.zip
+        rm -f Brets-Building-Utilities-Resource-Pack.zip
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'Omegacraft-Season-4-Resource-Pack.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig /*backups/*'
+        filename: 'Brets-Building-Utilities-Resource-Pack.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig /*resourcepack_backups/*'
     - name: push changes to remote
       run: |
         git add -A
-        git commit -m "Compressed Resource Pack For Server Use"
+        git commit -m "Compressed Resource Pack"
         git push --force
