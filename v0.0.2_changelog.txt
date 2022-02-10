@@ -1,5 +1,0 @@
-• Eight New Builder Blocks
-• Made Item Frame Shortcuts Compatiable With Glow Item Frames
-• Changed Tabs Tavern Sign To Kraken's Den Sign
-• Added Changelog Option To Builder Book
-• Removed Darkos ;)
