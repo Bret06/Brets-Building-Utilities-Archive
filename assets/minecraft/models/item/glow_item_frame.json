@@ -1,7 +1,7 @@
 {
     "overrides": [
         {
-            "model": "custom/decorations/christmas/lights",
+            "model": "builder:item/decorations/christmas/lights",
             "predicate": {
                 "custom_model_data": 531
             }

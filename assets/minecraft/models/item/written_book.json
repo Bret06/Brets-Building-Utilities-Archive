@@ -1,7 +1,7 @@
 {
     "overrides": [
         {
-            "model": "custom/decorations/book/builder_book",
+            "model": "builder:item/decorations/book/builder_book",
             "predicate": {
                 "custom_model_data": 6
             }
