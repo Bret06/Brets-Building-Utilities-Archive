@@ -1,0 +1,25 @@
+name: Create Archive
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: pull latest and remove old file from repo
+      run: |
+        git config --global user.name "Bret06"
+        git config --global user.email "bretholloway06@gmail.com"
+        git config pull.rebase false
+        git pull
+        rm -f Brets_Building_Utilites-Datapack.zip
+    - name: Archive Release
+      uses: thedoctor0/zip-release@master
+      with:
+        filename: 'Brets_Building_Utilites-Datapack.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig /*datapack_backups/*'
+    - name: push changes to remote
+      run: |
+        git add -A
+        git commit -m "Compressed Data Pack"
+        git push --force
